@@ -1,0 +1,1 @@
+"""Tests for certbot_dns_dnspod.dns_dnspod."""
